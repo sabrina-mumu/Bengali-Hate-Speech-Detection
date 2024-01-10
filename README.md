@@ -5,6 +5,11 @@ This is a project to detect Bangla Hate Speech. It is also intrigated with a dem
 
 In this process **Deep Learning model** (Language Model) **LSTM** is used.
 
+## NOTE
+Please at first use the **Hate_LSTM.ipynb** file to get the necessary h5 and pickle files. Then add these files in the root directory. 
+
+I could not upload these files due to the limitation of free storage.
+
 ## Run Locally
 
 1. Clone the project
@@ -37,4 +42,3 @@ Here, replace my-project with the path of your project
 ```bash
   python api_connect.py
 ```
-
