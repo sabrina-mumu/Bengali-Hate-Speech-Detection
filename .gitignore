@@ -1,2 +1,14 @@
-# Ignore virtual environment
+# .gitignore
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
 venv/
+
+# Ignore local configuration files
+.vscode/
+
+*.h5
+*.pickle
