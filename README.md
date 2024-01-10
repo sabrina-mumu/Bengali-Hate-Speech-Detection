@@ -10,7 +10,7 @@ In this process **Deep Learning model** (Language Model) **LSTM** is used.
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/sabrina-mumu/Bengali-Hate-Speech-Detection
 ```
 
 2. Go to the project directory
