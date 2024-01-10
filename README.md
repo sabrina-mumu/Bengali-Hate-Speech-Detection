@@ -43,7 +43,7 @@ Here, replace my-project with the path of your project
   python api_connect.py
 ```
 
-##Output
+## Output
 
 ![Hate Comment Detection](https://github.com/sabrina-mumu/Bengali-Hate-Speech-Detection/blob/master/hatecomment.png?raw=true)
 
