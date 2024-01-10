@@ -42,3 +42,9 @@ Here, replace my-project with the path of your project
 ```bash
   python api_connect.py
 ```
+
+##Output
+
+![Hate Comment Detection](https://github.com/sabrina-mumu/Bengali-Hate-Speech-Detection/blob/master/hatecomment.png?raw=true)
+
+![Non Hate Comment Detection](https://github.com/sabrina-mumu/Bengali-Hate-Speech-Detection/blob/master/nonhatecomment.png?raw=true)
